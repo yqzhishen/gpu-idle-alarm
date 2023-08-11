@@ -1,0 +1,5 @@
+host: smtp.xxx.com  # host of SMTP service
+port: 465  # port of SMTP server
+account: someone@xxx.com  # email address to send the alarm
+password: xxxxxx  # authorization token of your email account
+# to: anotherone@xxx.com  # email address to receive the alarm (default to the same as the sender)
